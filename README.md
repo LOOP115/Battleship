@@ -1,4 +1,4 @@
 # Battleship
 
-* For more details, please refer to the [specification](p2_spec.pdf). 
-* Check [hints](p2_hints.pdf).
+* For more details, please refer to the [specification](P2_spec.pdf). 
+* Check [hints](P2_hints.pdf).
