@@ -1,4 +1,5 @@
 # Battleship
 
-* For more details, please refer to the [specification](P2_spec.pdf). 
-* Check [hints](P2_hints.pdf).
+* [Specification](P2_spec.pdf)
+* [Hints](P2_hints.pdf)
+* [Haskell99](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
